@@ -1,0 +1,23 @@
+artifact_path: /Users/air/Desktop/MLOPS_lab2/mlruns/1/models/m-7845f84048d6447eafecda425617fad7/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.13.11
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.10.0
+mlflow_version: 3.10.1
+model_id: m-7845f84048d6447eafecda425617fad7
+model_size_bytes: 2277581
+model_uuid: m-7845f84048d6447eafecda425617fad7
+prompts: null
+run_id: 2830016b099a485bb11d00eaec37f010
+utc_time_created: '2026-03-13 18:33:23.143246'
